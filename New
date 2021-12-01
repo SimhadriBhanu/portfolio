@@ -11,7 +11,7 @@
 <body>
 
   <div class="header">
-    <h1>Sergio Cruz</h1>
+    <h1>bhanu</h1>
     <h2>Application Developer</h2>
 
     <ul class="nav">
@@ -22,8 +22,8 @@
 
   <div class="tagline">
     <div class="content-wrapper">
-      <h3>A bit more about me</h3>
-      <p>Hey I am Sergio, I work for <a target="_blank" href="https://www.codeschool.com">Code School</a> and I love writing JavaScript!</p>
+      <h3>a little more</h3>
+      <p>Hey I am bhanu, I work for <a target="_blank" href="https://www.codeschool.com">Code School</a> and I love writing JavaScript!</p>
     </div>
   </div>
 
